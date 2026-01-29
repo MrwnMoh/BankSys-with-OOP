@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsSystemLogsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsLogs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsTransfareScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsManageUsersScreen.h",
+              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h",
+              "RelativeToolTip": "c\u002B\u002B_C11\\clsManageUsersScreen.h",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-28T20:56:41.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsTransactionsScreen.h",
+              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h",
+              "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsTransactionsScreen.h",
+              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h",
+              "RelativeToolTip": "c\u002B\u002B_C11\\clsTransactionsScreen.h",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-28T20:56:28.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsTransfareScreen.h",
+              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h",
+              "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsTransfareScreen.h",
+              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h",
+              "RelativeToolTip": "c\u002B\u002B_C11\\clsTransfareScreen.h",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAF0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-28T20:51:58.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsDepositScreen.h",
+              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h",
+              "RelativeToolTip": "c\u002B\u002B_C11\\clsDepositScreen.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-28T20:48:39.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsSystemLogsScreen.h",
+              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h",
+              "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsSystemLogsScreen.h",
+              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h",
+              "RelativeToolTip": "c\u002B\u002B_C11\\clsSystemLogsScreen.h",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-28T16:35:26.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsLogs.h",
+              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h",
+              "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsLogs.h",
+              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h",
+              "RelativeToolTip": "c\u002B\u002B_C11\\clsLogs.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-28T16:33:52.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+﻿  c++_C11.cpp
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsString.h(98,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsString.h(294,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsString.h(322,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsString.h(362,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsString.h(441,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsString.h(446,18): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsBankClient.h(26,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsBankClient.h(292,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsBankClient.h(298,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsCrypt.h(25,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsCrypt.h(64,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsCrypt.h(65,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsCrypt.h(67,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsUser.h(31,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsInputValidation.h(32,3): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'c++_C11.cpp')
+      E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsInputValidation.h(27,11):
+      This diagnostic occurred in the compiler generated function 'T clsInputValidation::ReadNumber(std::string)'
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsInputValidation.h(43,8): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'c++_C11.cpp')
+      E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsInputValidation.h(27,11):
+      This diagnostic occurred in the compiler generated function 'T clsInputValidation::ReadNumber(std::string)'
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsTotalBalancesScreen.h(17,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsAddNewUserScreen.h(56,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsAddNewUserScreen.h(55,191): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'c++_C11.cpp')
+  
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsUtility.h(47,1): warning C4715: 'clsUtility::ColorText': not all control paths return a value
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsMainScreen.h(112,1): warning C4715: 'clsMainScreen::CanAccsesToOption': not all control paths return a value
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsBankClient.h(260,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\Marwan\Courses\c++\11\c++_C11\c++_C11\clsUser.h(268,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  c++_C11.vcxproj -> E:\Marwan\Courses\c++\11\c++_C11\x64\Debug\c++_C11.exe
