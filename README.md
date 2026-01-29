@@ -1,52 +1,88 @@
-# 🏦 BankSys OOP
+# 🏦 Bank Management System (OOP)
 
-A high-performance **Bank Management System** built with **C++**. Focused on clean **OOP** architecture, advanced data security, and a rich visual experience.
-
----
-
-## 🚀 Key Features (User Journey)
-
-* **Secure Login System:** The entry point of the system. A robust authentication gateway that verifies user credentials before granting access.
-* **Colored Permission Indicators:** After login, the main menu displays dynamic markers next to options. These change color (Green/Red) to show accessible features based on the user's specific permissions.
-* **Client Management:** Full CRUD operations (Add, Find, Update, Delete) with persistent and encrypted storage.
-* **Transactions Module:** Secure banking operations including Deposit, Withdraw, and Transfer with real-time balance validation.
-* **Currency Exchange System:** A complete module to view live-style rates relative to USD, search for currencies, and perform instant conversions.
-* **User Activity Tracking & Viewer:** A sophisticated system that records every move (Login, Transactions, Client edits). Includes an **Admin Log Viewer** to audit these records in a clean, formatted table.
-* **Permissions Management & Display:** A dedicated interface for users to view their access levels and for admins to manage them.
-* **Data Persistence:** All records (Clients, Users, Logs) are securely saved using C++ File Handling (`fstream`).
-* **Input Validation:** A robust sanitization layer that prevents system crashes by validating every user entry.
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Solutions-blue?style=for-the-badge&logo=c%2B%2B" alt="C++">
+  <img src="https://img.shields.io/badge/Object--Oriented-Programming-green?style=for-the-badge" alt="OOP">
+  <img src="https://img.shields.io/badge/Security-5--Layer%20Encryption-red?style=for-the-badge" alt="Security">
+</p>
 
 ---
 
-## 🎨 Immersive UI
-* **Full Color Support:** A professional, color-coded terminal interface that makes the console look modern and readable.
-* **Modern Terminal Dashboards:** Data is organized in clean, formatted tables with colored headers for a premium feel.
+## 📝 Introduction
+A high-performance **Console-based Bank Management System** built with **C++**. This project focuses on **Object-Oriented Programming (OOP)** principles, providing a secure and visually intuitive way to manage banking operations, currency exchange, and user activities.
 
 ---
 
-## 🛡️ Advanced Security
-* **5-Layer Encryption:** A custom cryptographic engine that secures data through: 
-  `XOR Cipher → Random Padding → Case Inversion → Nested XOR → Hex Conversion`.
-* **Refresh Security Tool:** A unique feature to re-encrypt all user passwords in the system files periodically to ensure maximum protection.
-* **Audit Trail:** Comprehensive logging of all system interactions to ensure accountability.
+## 🚀 Main Features
+
+### 🔐 1. Authentication & Access
+- **Secure Login System:** The gateway to the system with credential verification.
+- **Dynamic Permissions:** Each user has specific access rights (Admin/User).
+- **Colored Status Indicators:** Visual markers (icons) that change color based on permissions before you even click.
+
+### 👥 2. Client & User Management
+- **Client Operations:** Full CRUD (Add, Delete, Update, Find) with encrypted storage.
+- **User Operations:** Complete management of system users and their security levels.
+- **Permissions Display:** A dedicated screen to view what each user is allowed to do.
+
+### 💰 3. Banking & Transactions
+- **Balance Management:** Deposit, Withdraw, and Total Balances.
+- **Transfer System:** Secure money transfer between accounts with real-time validation.
+- **Transaction Logs:** Automatically recording every financial movement.
+
+### 🌍 4. Currency Exchange System
+- **Live-Style Rates:** View currency rates relative to the USD.
+- **Currency Finder:** Search for any currency by code or country.
+- **Currency Calculator:** Perform instant conversions between different global currencies.
+
+### 🛡️ 5. Security & Logs (Audit Trail)
+- **User Move Tracking:** The system records every single click and action by the user.
+- **Logs Viewer:** A clean, formatted table for admins to review all system activities.
+- **Security Refresh:** A tool to re-encrypt data files for maximum protection.
 
 ---
 
-## 🔐 Encryption Walkthrough (Example)
-
-| Step | Transformation Level | Result / Status |
-| :--- | :--- | :--- |
-| 0 | **Original Text** | `Hello World!` |
-| 1 | **XOR Encryption** | Applied with Key: `Marwan` |
-| 2 | **Random Padding** | Data obfuscated with random noise |
-| 3 | **Case Inversion** | Letter casing flipped for complexity |
-| 4 | **Nested XOR** | Second security pass applied |
-| 5 | **Hexadecimal** | `3D101A1A000221051405170D4865...` |
+## 🎨 User Interface (UI)
+- **Full Color Support:** A professional color-coded terminal experience.
+- **Modular Menus:** Intuitive navigation through nested, organized menus.
+- **Formatted Tables:** All data is displayed in neat, structured, and colored tables.
 
 ---
 
-## 💻 Technical Logic
-```cpp
-// Custom 5-layer encryption implemented:
-string Encrypted = _EncryptText(_InvertTextCase(_AddRandomPadding(_EncryptText(Text, Key), Key)), Key);
-return TextToHex(Encrypted);
+## 🔐 Encryption Engine (5-Layers)
+The system protects sensitive data using a custom-built cryptographic logic:
+1. **XOR Cipher** (Primary encryption)
+2. **Random Padding** (Noise injection)
+3. **Case Inversion** (Casing flip)
+4. **Nested XOR** (Second security pass)
+5. **Hexadecimal** (Final secure format)
+
+---
+
+## 📂 Project Structure
+
+| File Name | Responsibility |
+| :--- | :--- |
+| `main.cpp` | App Entry Point & Login Loop |
+| `ClsLoginScreen.h` | Secure Authentication Logic |
+| `ClsMainScreen.h` | UI, Navigation & Indicators |
+| `ClsCurrencyScreen.h` | Currency Exchange & Calculator |
+| `ClsLogManager.h` | Activity Tracking & Audit Viewer |
+| `ClsBankClient.h` | Core Client Logic & Encryption |
+| `ClsTransactions.h` | Financial Operations |
+| `ClsInputValidate.h` | Data Sanitization & Protection |
+
+---
+
+## 🛠 Tools & Technologies
+- **Language:** C++
+- **Paradigm:** Object-Oriented Programming (OOP)
+- **Concepts:** Encapsulation, Inheritance, Polymorphism, File Handling, Data Structures.
+
+---
+
+## 👨‍💻 Author
+**Marwan**
+> "Building secure and scalable software solutions."
+
+---
