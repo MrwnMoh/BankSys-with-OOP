@@ -8,6 +8,28 @@
 
 class clsAddNewClient : protected clsScreen
 {
+
+    static void _ReadClientInfo(clsBankClient& Client)
+    {
+            cout << "Enter FirstName      : ";
+            Client.FirstName = clsInputValidation::ReadString();
+
+            cout << "Enter LastName       : ";
+            Client.LastName = clsInputValidation::ReadString();
+
+            cout << "Enter Email          : ";
+            Client.Email = clsInputValidation::ReadString();
+
+            cout << "Enter Phone          : ";
+            Client.Phone = clsInputValidation::ReadString();
+
+            cout << "Enter PinCode        : ";
+            Client.PinCode = clsInputValidation::ReadString();
+
+            cout << "Enter Account Balance: ";
+            Client.AccountBalance = clsInputValidation::ReadNumber<float>();
+    }
+
 public:
 
     static void ShowAddNewClient()
@@ -34,7 +56,7 @@ public:
 
             clsBankClient NewClient = clsBankClient::GetAddNewUserObject(AccountNumber);
 
-            clsScreen::_ReadClientInfo(NewClient);
+            _ReadClientInfo(NewClient);
 
             clsBankClient::enSaveResults SaveResult;
             SaveResult = NewClient.Save();

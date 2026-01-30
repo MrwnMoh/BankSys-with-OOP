@@ -92,45 +92,7 @@ protected:
 
 	}
 
-    static void _ReadClientInfo(clsBankClient& Client)
-    {
-        if(clsInputValidation::YesOrNo("Do you want to update FirstName? [Y/N] : "))
-        {
-            cout << "Enter FirstName      : ";
-            Client.FirstName = clsInputValidation::ReadString();
-        }
-
-        if (clsInputValidation::YesOrNo("Do you want to update LastName? [Y/N] : "))
-        {
-            cout << "Enter LastName       : ";
-            Client.LastName = clsInputValidation::ReadString();
-        }
-
-        if (clsInputValidation::YesOrNo("Do you want to update Email? [Y/N] : "))
-        {
-            cout << "Enter Email          : ";
-            Client.Email = clsInputValidation::ReadString();
-        }
-
-        if (clsInputValidation::YesOrNo("Do you want to update Phone? [Y/N] : "))
-        {
-            cout << "Enter Phone          : ";
-            Client.Phone = clsInputValidation::ReadString();
-        }
-
-        if (clsInputValidation::YesOrNo("Do you want to update PinCode? [Y/N] : "))
-        {
-            cout << "Enter PinCode        : ";
-            Client.PinCode = clsInputValidation::ReadString();
-        }
-
-        if (clsInputValidation::YesOrNo("Do you want to update Balance? [Y/N] : "))
-        {
-            cout << "Enter Account Balance: ";
-            Client.AccountBalance = clsInputValidation::ReadNumber<float>();
-        }
-
-    }
+    
 
     static bool _CheckAccessRightes(clsUser::enPermissions Permission)
     {

@@ -10,6 +10,46 @@
 class clsUpdateClientScreen : protected clsScreen
 {
  
+    static void _ReadClientInfo(clsBankClient& Client)
+    {
+        if (clsInputValidation::YesOrNo("Do you want to update FirstName? [Y/N] : "))
+        {
+            cout << "Enter FirstName      : ";
+            Client.FirstName = clsInputValidation::ReadString();
+        }
+
+        if (clsInputValidation::YesOrNo("Do you want to update LastName? [Y/N] : "))
+        {
+            cout << "Enter LastName       : ";
+            Client.LastName = clsInputValidation::ReadString();
+        }
+
+        if (clsInputValidation::YesOrNo("Do you want to update Email? [Y/N] : "))
+        {
+            cout << "Enter Email          : ";
+            Client.Email = clsInputValidation::ReadString();
+        }
+
+        if (clsInputValidation::YesOrNo("Do you want to update Phone? [Y/N] : "))
+        {
+            cout << "Enter Phone          : ";
+            Client.Phone = clsInputValidation::ReadString();
+        }
+
+        if (clsInputValidation::YesOrNo("Do you want to update PinCode? [Y/N] : "))
+        {
+            cout << "Enter PinCode        : ";
+            Client.PinCode = clsInputValidation::ReadString();
+        }
+
+        if (clsInputValidation::YesOrNo("Do you want to update Balance? [Y/N] : "))
+        {
+            cout << "Enter Account Balance: ";
+            Client.AccountBalance = clsInputValidation::ReadNumber<float>();
+        }
+
+    }
+
 public:
 
 	static void ShowUpdateClientScreen()
@@ -40,7 +80,7 @@ public:
             {
                 cout << "\n\nUpdate Client Info:";
                 cout << "\n_____________________\n";
-                clsScreen::_ReadClientInfo(Client1);
+                _ReadClientInfo(Client1);
 
                 clsBankClient::enSaveResults SaveResult;
 

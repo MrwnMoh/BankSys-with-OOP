@@ -88,6 +88,7 @@ public:
 
 	static string Encryption(string Text, string Key = "Marwan")
 	{
+
 		string Encrypted = _EncryptText(_InvertTextCase(_AddRandomPadding(_EncryptText(Text, Key), Key)), Key);
 
 		return TextToHex(Encrypted);

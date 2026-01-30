@@ -1,33 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\",
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsCrypt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\c\u002B\u002B_C11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\c\u002B\u002B_C11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsCrypt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsCrypt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsSystemLogsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsLogs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsTransfareScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0802EBA-0868-490C-963C-F4E06E6CBFFD}|c\u002B\u002B_C11\\c\u002B\u002B_C11.vcxproj|solutionrelative:c\u002B\u002B_C11\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,24 +53,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ViewState": "AgIAAHQHAAAAAAAAAAAgwIkHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-30T11:48:30.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "c\u002B\u002B_C11.cpp",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\c\u002B\u002B_C11.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B_C11\\c\u002B\u002B_C11.cpp",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\c\u002B\u002B_C11.cpp",
+              "RelativeToolTip": "c\u002B\u002B_C11\\c\u002B\u002B_C11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T22:39:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "clsCrypt.h",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsCrypt.h",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsCrypt.h",
               "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsCrypt.h",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsCrypt.h",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsCrypt.h",
               "RelativeToolTip": "c\u002B\u002B_C11\\clsCrypt.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-29T08:05:20.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "clsManageUsersScreen.h",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h",
               "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsManageUsersScreen.h",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsManageUsersScreen.h",
               "RelativeToolTip": "c\u002B\u002B_C11\\clsManageUsersScreen.h",
               "ViewState": "AgIAAG0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -71,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "clsTransactionsScreen.h",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h",
               "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsTransactionsScreen.h",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransactionsScreen.h",
               "RelativeToolTip": "c\u002B\u002B_C11\\clsTransactionsScreen.h",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -83,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "clsTransfareScreen.h",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h",
               "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsTransfareScreen.h",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsTransfareScreen.h",
               "RelativeToolTip": "c\u002B\u002B_C11\\clsTransfareScreen.h",
               "ViewState": "AgIAACgAAAAAAAAAAAAAAF0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -95,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "clsDepositScreen.h",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h",
               "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsDepositScreen.h",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsDepositScreen.h",
               "RelativeToolTip": "c\u002B\u002B_C11\\clsDepositScreen.h",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -107,24 +140,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "clsSystemLogsScreen.h",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h",
               "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsSystemLogsScreen.h",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsSystemLogsScreen.h",
               "RelativeToolTip": "c\u002B\u002B_C11\\clsSystemLogsScreen.h",
               "ViewState": "AgIAADcAAAAAAAAAAAAYwEUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-28T16:35:26.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T16:35:26.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "clsLogs.h",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h",
               "RelativeDocumentMoniker": "c\u002B\u002B_C11\\clsLogs.h",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\11\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\GitHub\\BankSys-with-OOP\\c\u002B\u002B_C11\\c\u002B\u002B_C11\\clsLogs.h",
               "RelativeToolTip": "c\u002B\u002B_C11\\clsLogs.h",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
