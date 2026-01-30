@@ -4,6 +4,9 @@
   <img src="https://img.shields.io/badge/C%2B%2B-Solutions-blue?style=for-the-badge&logo=c%2B%2B" alt="C++">
   <img src="https://img.shields.io/badge/Object--Oriented-Programming-green?style=for-the-badge" alt="OOP">
   <img src="https://img.shields.io/badge/Security-5--Layer%20Encryption-red?style=for-the-badge" alt="Security">
+  <!-- Animated badges -->
+  <img src="https://img.shields.io/badge/Code-Fast-FC6600?style=for-the-badge&logo=appveyor&labelColor=1F1F1F&animation=spin" alt="Fast Coding">
+  <img src="https://img.shields.io/badge/Debugging-Master-yellow?style=for-the-badge&logo=travis&labelColor=1F1F1F&animation=pulse" alt="Debugging">
 </p>
 
 ---
